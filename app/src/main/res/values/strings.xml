@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RecyclerDemoMain</string>
+    <string name="orientation">orientation</string>
+</resources>
